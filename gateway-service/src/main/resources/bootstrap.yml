@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gateway-service
+  profiles: 
+    active: local
+  cloud: 
+    config:
+      uri: http://localhost:8760
+      

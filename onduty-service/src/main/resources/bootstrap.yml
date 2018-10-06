@@ -2,4 +2,8 @@ spring:
   application:
     name: onduty-service
   profiles:
-    active: local
+    active: dev
+  cloud: 
+    config:
+      uri: http://configuration-service:8760
+

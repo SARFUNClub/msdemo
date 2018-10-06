@@ -2,4 +2,4 @@ spring:
   application:
     name: configuration-service
   profiles:
-    active: local
+    active: dev

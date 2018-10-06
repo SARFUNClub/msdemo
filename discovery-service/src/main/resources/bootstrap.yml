@@ -2,7 +2,7 @@ spring:
   application:
     name: discovery-service
   profiles: 
-    active: local
+    active: dev
   cloud: 
     config:
       uri: http://configuration-service:8760

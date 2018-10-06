@@ -11,7 +11,7 @@ management:
 eureka:
   client:
     serviceUrl:
-      defaultZone: ${gateway.config.url.eureka:http://localhost:8761/eureka/}
+      defaultZone: ${gateway.config.url.eureka:http://discovery-service:8761/eureka/}
     registerWithEureka: false
 
 

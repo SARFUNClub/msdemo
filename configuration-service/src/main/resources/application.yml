@@ -7,11 +7,10 @@ spring:
       server:
         bootstrap: true
         git: 
-          uri: E:\\MyWork\\2018\\Microservice\\coud_config
-          #uri: https://github.com/SARFUNClub/msdemo-cloud-config.git
-          #clone-on-start: true
-          #username: rajesh.nivargikar@gmail.com
-          #password: demo1018~231
+          #uri: E:\\MyWork\\2018\\Microservice\\coud_config
+          uri: https://github.com/SARFUNClub/msdemo-cloud-config.git
+          clone-on-start: true
+          
 
 logging:
   level:

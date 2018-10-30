@@ -7,7 +7,7 @@ eureka:
     leaseExpirationDurationInSeconds: 2
   client:
     serviceUrl:
-      defaultZone: ${onduty.config.url.eureka:http://discovery-service:8761/eureka/}   
+      defaultZone: ${onduty.config.url.eureka:http://localhost:8761/eureka/}   
 
 logging:
   pattern:

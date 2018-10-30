@@ -1,0 +1,14 @@
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\bin\Debug\netcoreapp2.1\fortune-teller-service.deps.json
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\bin\Debug\netcoreapp2.1\fortune-teller-service.runtimeconfig.json
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\bin\Debug\netcoreapp2.1\fortune-teller-service.runtimeconfig.dev.json
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\bin\Debug\netcoreapp2.1\fortune-teller-service.dll
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\bin\Debug\netcoreapp2.1\fortune-teller-service.pdb
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.csprojAssemblyReference.cache
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.csproj.CoreCompileInputs.cache
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.RazorAssemblyInfo.cache
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.RazorAssemblyInfo.cs
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.AssemblyInfoInputs.cache
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.AssemblyInfo.cs
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.RazorTargetAssemblyInfo.cache
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.dll
+E:\MyWork\2018\Microservice\msdemo\fortune-teller-service\obj\Debug\netcoreapp2.1\fortune-teller-service.pdb
